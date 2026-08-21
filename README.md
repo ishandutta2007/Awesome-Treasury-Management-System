@@ -85,7 +85,7 @@ The table below catalogs leading commercial Treasury Management Systems (TMS), s
 
 The table below catalogs premier open-source treasury building blocks, core banking engines, financial ERPs, quantitative risk libraries, and bank connectivity parsers, **sorted in descending order by GitHub Star Count**.
 
-| 💻 Repository | ⭐ GitHub Stars | ⚖️ License | 🛠️ Tech Stack | 📖 Description & Treasury Domain |
+| 💻 Repository | ⭐ GitHub_Stars | ⚖️ License | 🛠️ Tech Stack | 📖 Description & Treasury Domain |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Odoo](https://github.com/odoo/odoo)** | [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | LGPL-3.0 | Python / JS | Enterprise open-source ERP with integrated cash management, automated bank synchronization, statement reconciliation, payment gateways, and cash position tracking. |
 | **[Hyperswitch](https://github.com/juspay/hyperswitch)** | [![GitHub stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white)](https://github.com/juspay/hyperswitch/stargazers) | Apache-2.0 | Rust | High-performance open-source financial payment switch and orchestration engine connecting banks, card processors, and global payout systems. |
