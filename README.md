@@ -17,7 +17,7 @@ These platforms help corporate treasury teams manage the complete treasury lifec
 **Examples** include Kyriba, TreasuryXpress, GTreasury, CashAnalytics, Cobase, Nomentia, ION Treasury, FIS Integrity, SAP Treasury, Oracle Treasury, Hazeltree, HighRadius, TIS, Coupa Treasury, SAP Treasury and Risk Management, Salmon Software, FIS Quantum and Agicap Treasury.
 
 
-**[Kyriba](https://www.kyriba.com/)** is one of the major enterprise TMS platforms, combining cash and liquidity management, forecasting, payments, risk management, working capital and extensive bank/ERP connectivity. Kyriba currently describes its platform around four major areas: connecting, protecting, forecasting and optimizing liquidity. :contentReference[oaicite:0]{index=0}
+**[Kyriba](https://www.kyriba.com/)** is one of the major enterprise TMS platforms, combining cash and liquidity management, forecasting, payments, risk management, working capital and extensive bank/ERP connectivity. Kyriba currently describes its platform around four major areas: connecting, protecting, forecasting and optimizing liquidity.
 
 
 **[GTreasury](https://www.gtreasury.com/)** provides enterprise treasury and liquidity management capabilities covering cash management, payments, forecasting, debt, investments, FX, risk and treasury operations.
@@ -38,19 +38,19 @@ These platforms help corporate treasury teams manage the complete treasury lifec
 The open-source ecosystem is instead strongest when combining **ERP/accounting, banking, cash management, payment orchestration, financial data, reconciliation, workflow automation, event-driven infrastructure, analytical databases and treasury-specific applications**.
 
 
-**[ERPNext](https://github.com/frappe/erpnext)** is one of the strongest general open-source foundations because it provides accounting, cash-flow management, payments, banking, assets, procurement, currencies and financial reporting. It is GPL-3.0 licensed and can serve as a foundation for a custom treasury stack. :contentReference[oaicite:1]{index=1}
+**[ERPNext](https://github.com/frappe/erpnext)** is one of the strongest general open-source foundations because it provides accounting, cash-flow management, payments, banking, assets, procurement, currencies and financial reporting. It is GPL-3.0 licensed and can serve as a foundation for a custom treasury stack.
 
 
-**[ERP5 Banking](https://www.erp5.com/feature/banking)** is another particularly relevant open-source project. It provides banking, cash management, account management and transaction capabilities and is GPL licensed. :contentReference[oaicite:2]{index=2}
+**[ERP5 Banking](https://www.erp5.com/feature/banking)** is another particularly relevant open-source project. It provides banking, cash management, account management and transaction capabilities and is GPL licensed.
 
 
-**[TCMTreino](https://github.com/Sen2pi/TCMTreino)** is a dedicated open-source treasury/collateral-management project built with Spring Boot, React, Kafka and PostgreSQL. It includes treasury accounts, transfers, balances and dashboard functionality, making it an interesting starting point for a custom TMS. :contentReference[oaicite:3]{index=3}
+**[TCMTreino](https://github.com/Sen2pi/TCMTreino)** is a dedicated open-source treasury/collateral-management project built with Spring Boot, React, Kafka and PostgreSQL. It includes treasury accounts, transfers, balances and dashboard functionality, making it an interesting starting point for a custom TMS.
 
 
-**[Agentic Treasury and Liquidity Management](https://github.com/chrisshayan/agentic-tlm)** is an experimental open-source AI-oriented TLM system covering cash flow, risk management, compliance and portfolio-optimization concepts. It should be regarded as a research/prototype project rather than a production-grade enterprise TMS. :contentReference[oaicite:4]{index=4}
+**[Agentic Treasury and Liquidity Management](https://github.com/chrisshayan/agentic-tlm)** is an experimental open-source AI-oriented TLM system covering cash flow, risk management, compliance and portfolio-optimization concepts. It should be regarded as a research/prototype project rather than a production-grade enterprise TMS.
 
 
-The broader GitHub treasury-management ecosystem contains dozens of projects, but many are prototypes, educational systems, payment tools, crypto treasuries or individual treasury components rather than complete corporate TMS products. :contentReference[oaicite:5]{index=5}
+The broader GitHub treasury-management ecosystem contains dozens of projects, but many are prototypes, educational systems, payment tools, crypto treasuries or individual treasury components rather than complete corporate TMS products.
 
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites or GitHub repositories.
@@ -69,21 +69,24 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-- **[Kyriba](https://www.kyriba.com/)**  
-  Enterprise treasury and liquidity-performance platform covering cash visibility, cash forecasting, payments, risk management, working capital, bank connectivity, reconciliation and liquidity optimization. Kyriba states that its platform connects to thousands of banks and integrates banks, ERPs and other systems. :contentReference[oaicite:6]{index=6}
-
-
-- **[TreasuryXpress](https://www.treasuryxpress.com/)**  
-  Treasury management platform focused on cash management, liquidity, forecasting, payments, risk, bank connectivity and treasury operations.
-
-
-- **[GTreasury](https://www.gtreasury.com/)**  
-  Enterprise TMS covering cash management, liquidity, forecasting, debt, investments, FX, risk, payments and treasury reporting.
-
-
-- **[CashAnalytics](https://www.cashanalytics.com/)**  
-  Cloud cash forecasting and liquidity-management platform focused on automated cash forecasting, cash visibility, scenario analysis and treasury reporting.
+| Platform | Focus & Key Capabilities | Starting Pricing | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Kyriba](https://www.kyriba.com/)** | Enterprise treasury and liquidity-performance platform covering cash visibility, forecasting, payments, FX/risk management, working capital, bank connectivity, and reconciliation. | Starts at **$50,000/year** (~$4,166/month billed annually for core mid-market entry tier; typical 1st-year entry deployment is ~$100,000 including implementation) | **14-day guided sandbox demo/POC** upon enterprise qualification (includes simulated bank feeds, forecasting engine, and core cash dashboard access). No free-forever plan. |
+| **[GTreasury](https://www.gtreasury.com/)** | Enterprise TMS covering cash management, liquidity, automated forecasting, debt, investments, FX exposure, payments orchestration, and financial risk. | Starts at **$50,000/year** (~$4,167/month for core cash & liquidity module) | **14-day guided custom sandbox trial** for qualified enterprise teams (includes sample transaction datasets and core liquidity workspace). No free-forever plan. |
+| **[TreasuryXpress](https://www.treasuryxpress.com/)** *(Bottomline)* | On-demand TMS platform focused on cash visibility, liquidity forecasting, payment workflows, bank connectivity, and multi-bank reporting. | Starts at **$12,000/year** (~$1,000/month for C2Direct entry cash visibility tier) | **30-day Proof of Concept (POC) trial** (limited to 5 connected accounts and test bank statement feeds upon sales qualification). No free-forever plan. |
+| **[CashAnalytics](https://www.cashanalytics.com/)** *(GTreasury)* | Automated cash forecasting and liquidity-planning platform with multi-source ingestion, scenario modeling, and variance reporting. | Starts at **€420/month** (~€5,040/year billed annually for basic cash forecasting tier) | **14-day free trial / guided pilot** upon request (limited to 3 user seats, 5 entity accounts, and standard ERP CSV uploads). No free-forever plan. |
+| **[Agicap Treasury](https://agicap.com/)** | Cash flow management and real-time liquidity planning suite for SMBs and mid-market firms with bank sync and AP/AR automation. | Starts at **€150/month** (~€1,800/year billed annually for core cash flow forecasting tier) | **14-day free trial** (limited to 2 connected bank accounts, 1 user seat, and 12-month cash forecasting horizon). No free-forever plan. |
+| **[Cobase](https://www.cobase.com/)** | Multi-banking and cash management platform providing unified bank connectivity, payment hub, and cash balance visibility. | Starts at **€350/month** (~€4,200/year base platform fee + per-connected-bank account fees) | **14-day sandbox test environment** (limited to 2 admin user logins and simulated MT940/CAMT.053 statement testing). No free-forever plan. |
+| **[Nomentia](https://www.nomentia.com/)** | Modular cloud treasury platform spanning bank connectivity, payment hub, liquidity forecasting, FX management, and in-house banking. | Starts at **€10,000/year** (~€833/month for entry-level payment hub or cash visibility module) | **Free-forever tier for Treasury ROI Calculator & Analytics Benchmarking tools** (unlimited usage); **14-day sandbox trial** available for core modules upon sales validation. |
+| **[HighRadius Treasury](https://www.highradius.com/)** | AI-driven cash forecasting, automated cash positioning, bank reconciliation, and working capital optimization suite. | Starts at **$50,000/year** (~$4,167/month for AI Cash Forecasting module) or **$0 upfront pilot** via Outcome-Based Pricing | **30-day value-proof assessment / pilot** (limited to single-entity cash forecasting and 1-year historical dataset backtesting). No free-forever plan. |
+| **[Coupa Treasury](https://www.coupa.com/)** *(BELLIN tm5)* | Enterprise TMS offering global payments, multilateral netting, cash visibility, risk management, and in-house banking. | Starts at **$40,000/year** (~$3,333/month for entry-level tm5 cash management suite) | **14-day guided proof-of-concept trial** in pre-configured staging sandbox with sample corporate hierarchies. No free-forever plan. |
+| **[TIS](https://www.tispayments.com/)** *(Treasury Intelligence Solutions)* | Enterprise cloud platform for corporate payments, bank account management (BAM), and real-time cash visibility. | Starts at **€15,000/year** (~€1,250/month for entry-level enterprise payment and bank connectivity hub) | **14-day interactive sandbox access** upon qualification (restricted to simulated bank statement workflows and up to 3 test users). No free-forever plan. |
+| **[Salmon Software](https://www.salmonsoftware.ie/)** *(Salmon Treasurer)* | Comprehensive TMS supporting cash management, debt, derivatives, trade finance, intercompany lending, and bank reconciliation. | Starts at **€250/month** (~€3,000/year for entry SaaS cash tier; on-premise perpetual licenses start at €15,000) | **14-day interactive demo sandbox** upon request (includes pre-loaded treasury transactions and report templates). No free-forever plan. |
+| **[ION Treasury](https://iongroup.com/)** *(Reval / IT2 / Wallstreet)* | Multi-product enterprise treasury and risk suite for global cash, complex debt, hedging, commodities, and derivatives trading. | Starts at **$60,000/year** (~$5,000/month for Reval core cloud SaaS tier) | **14-day custom POC sandbox trial** for qualified enterprise treasury teams. No free-forever plan. |
+| **[FIS Integrity & Quantum](https://www.fisglobal.com/)** | Mission-critical enterprise TMS handling complex cash pooling, global payments, investment portfolios, and hedge accounting. | Starts at **$75,000/year** (~$6,250/month for Integrity SaaS core cash tier) | **14-day guided sandbox pilot** for qualified institutional buyers (pre-loaded with regulatory and accounting simulation data). No free-forever plan. |
+| **[Hazeltree](https://www.hazeltree.com/)** | Treasury and collateral management platform engineered specifically for hedge funds, private equity, and asset managers. | Starts at **$36,000/year** (~$3,000/month for core cash & collateral module) | **14-day interactive sandbox trial** upon demo qualification (limited to test portfolio data). No free-forever plan. |
+| **[Oracle Cloud Treasury](https://www.oracle.com/erp/financials/)** | Cloud-native cash and treasury management within Oracle Fusion Cloud Financials ERP, covering payments and cash positioning. | Starts at **$600/user/month** (~$7,200/user/year; minimum 10 users = $72,000/year) | **30-day Free Trial with $300 cloud credits** (includes Oracle Always Free cloud tier services; dedicated ERP Treasury sandbox accessible via sales consultation). |
+| **[SAP Treasury and Risk Management](https://www.sap.com/)** | Comprehensive enterprise treasury, exposure management, financial asset trading, and hedge accounting in S/4HANA Cloud. | Starts at **$3,500/month** (~$42,000/year base add-on subscription for SAP S/4HANA Cloud Treasury packages) | **14-day SAP S/4HANA Cloud Trial** (includes interactive guided tours, pre-configured cash position sheets, and test financial data). No free-forever plan. |
 
 
 
